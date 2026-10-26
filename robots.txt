@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://homecare-metro.netlify.app/sitemap.xml
+Sitemap: https://haneul-homecare.netlify.app/sitemap.xml
