@@ -1,0 +1,6 @@
+﻿*.py
+sitemap-paths.txt
+style-before-theme.css
+__pycache__/
+*.pyc
+_backup-*/
